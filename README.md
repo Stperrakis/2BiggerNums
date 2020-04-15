@@ -1,2 +1,2 @@
 # 2BiggerNums
-This program in :k entries is calculating which two are bigger. 
+Calculating the bigger number without using for loop.
